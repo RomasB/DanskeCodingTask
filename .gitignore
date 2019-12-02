@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DanskeCodingTask/bin/Debug/netcoreapp3.0
+/DanskeCodingTask/obj
+/DanskeCodingTask.Tests/bin/Debug/netcoreapp3.0
+/DanskeCodingTask.Tests/obj
